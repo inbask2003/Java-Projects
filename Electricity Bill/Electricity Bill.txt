@@ -1,0 +1,23 @@
+Electricity Bill Micro Project :
+
+Abstract : 
+          The two month electricity bill checking will checked by each month in toady onwards because it reduce the some amount in total electricity bill.So we can 
+find the profit amount and the profit percentage.
+
+Input :
+    1. EB's bill for unit
+    2. 2 month EB bill amount
+
+Process :
+    EB's Bill :
+        => lessthan 100 unit - free
+        => 100 unit to 199 unit - unit * 2 ruppes
+        => 200 unit to 299 unit - unit * 3 ruppes
+        => 300 unit to 399 unit - unit * 4 ruppes
+        => 400 unit to 499 unit - unit * 5 ruppes
+        => 500 unit to 999 unit - unit * 7 ruppes
+        => 1000 unit and above  - unit * 10 ruppes
+Output :
+    1. Profit Amount 
+    2. Profit Percentage
+    
